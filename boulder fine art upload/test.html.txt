@@ -1,0 +1,25 @@
+<HTML>
+
+	
+	<HEAD>
+		<title>Testing the overlay</title>
+	</HEAD>
+
+	<BODY bgcolor="#242424">
+		<div container aka figure>
+			<src="bgvideo.mp4" alt="desc of video" title="Video title">
+			<div overlay aka figcaption>
+				<div clas="views">
+				<h1>title</h1>
+				<p>Premium Archival Matte Paper 280gsm 
+				Sunset Textured Paper 310gsm
+                                Hahnemühle William Turner Paper 310gsm
+                                Sunset Reserve Gloss Canvas
+                                15 cents per sq inch</p>
+				<button>Get started</button>
+				</div views>
+			</div figcaption>
+		</div figure>
+	</BODY>
+
+</HTML>
