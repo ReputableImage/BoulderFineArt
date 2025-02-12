@@ -566,7 +566,7 @@
 
 	/*----*****---- << 2.2 Container >> ----*****----*/
 
-	.container { clear: both; margin: 150px !important; position: relative; width: 1200px;  }
+	.container { clear: both; margin: 150px !important; position: relative; width: 80%;  }
 	.menu-container { width: 1700px; }
 	
 	#primary { width:870px; float:left; }
@@ -741,7 +741,7 @@
 .trportfolio-detail {
     border: medium none;
     clear: both;
-	left: -100px !important;
+	left: 0px !important;
     cursor: default;
     display: block;
     margin: 0 0 0 0 important;
